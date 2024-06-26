@@ -1,6 +1,6 @@
 ### Welcome to TechPaliyal
 
-TechPaliyal is a collaborative GitHub organization founded by four brothers—Yogesh, Sohan, Umesh, and Bhagirath. Our mission is to learn, innovate, and contribute to the open-source community by developing cutting-edge projects that span various domains of technology.
+TechPaliyal is a collaborative GitHub organization founded by four brothers— Yogesh, Sohan, Umesh, and Bhagirath. Our mission is to learn, innovate, and contribute to the open-source community by developing cutting-edge projects that span various domains of technology.
 
 Our focus is on creating impactful, high-quality software solutions that are freely available to everyone. We believe in the power of open-source to drive innovation, foster collaboration, and solve real-world problems. 
 
